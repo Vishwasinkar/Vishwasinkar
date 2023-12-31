@@ -1,3 +1,4 @@
+![logo](https://github.com/Vishwasinkar/Vishwasinkar/blob/main/GitBanner.jpeg)
 <h1 align="center">Hi 👋, I'm Vishwa Sinkar</h1>
 <h3 align="center">A Passionate Aspiring Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
